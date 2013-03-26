@@ -1,6 +1,16 @@
+Changes in TScompare version 2013.3-1
+
+   o	removed mention of TSpadi as it has been moved to CRAN archives.
+
+Changes in TScompare version 2012.10-1
+
+   o	removed need for TSpadi in tests.
+
+   o	added Suggests: in DESCRIPTION for packages needed for testiing.
+
 Changes in TScompare version 2012.8-1
 
-   o	still not released (just on R-forge).
+   o	first release.
 
    o	Added tfplot to Suggests in DESCRIPTION.
 
