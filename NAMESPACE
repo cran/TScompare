@@ -1,4 +1,6 @@
-#import("methods")  
+import("tframe")
+import("TSdbi")
+
 importFrom("tfplot","tfplot")
 
 export(

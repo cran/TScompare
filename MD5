@@ -1,7 +1,8 @@
-eeab2c0de3ec75167f1e6624d6a256c0 *DESCRIPTION
-b88f9d43d7c89845a1e93c3df9dca253 *NAMESPACE
-cf108edaec98dab2980afb92e47c6f78 *NEWS
+9a2e1fde28da0a19eae71ab1157c937f *DESCRIPTION
+365fac9a47befdb5913fd1775fabaaee *NAMESPACE
+40116c980b7673b0f93dfa21f2487986 *NEWS
 7190636eb69c83139d8aba5c1dcdef84 *R/TScompare.R
+238d587874dc3bbed3f99bae93fe9ccd *build/vignette.rds
 80b9499a2f99b1463f51ab8f0df80868 *inst/doc/Guide.Stex
 7bbf068d5a1be4515abbed7da48037a8 *inst/doc/Guide.pdf
 f72ef7a0d12d4ddd0b71d081aa4bc1a8 *man/AllIds.Rd

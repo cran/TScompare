@@ -1,3 +1,13 @@
+Changes in TScompare version 2013.9-1
+
+   o	Adjusted Depends and Imports in DESCRIPTION.
+
+   o	Remove MySQL TSdbi tables in test db created when running tests.
+
+Changes in TScompare version 2013.6-1
+
+   o	added unlink of test file created by SQLLite when running tests.
+
 Changes in TScompare version 2013.3-1
 
    o	removed mention of TSpadi as it has been moved to CRAN archives.
