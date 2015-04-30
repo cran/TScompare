@@ -1,3 +1,13 @@
+Changes in TScompare version 2015.4-1
+
+   o	Moved tests to inst/testWithDatabases and inst/testWithInternet.
+
+Changes in TScompare version 2015.1-1
+
+   o	Minor adjustments for NAMESPACE cleanup in other TS* packages.
+
+   o	Bumped requirement for DBI up to version 0.3.1 or greater.
+
 Changes in TScompare version 2013.9-1
 
    o	Adjusted Depends and Imports in DESCRIPTION.
